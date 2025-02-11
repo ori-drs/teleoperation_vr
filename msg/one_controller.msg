@@ -1,0 +1,3 @@
+geometry_msgs/Pose ee_pose
+geometry_msgs/Pose2D base_position
+bool gripper

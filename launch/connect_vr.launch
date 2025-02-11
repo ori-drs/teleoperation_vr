@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="teleoperation_vr" type="connect_controller.py" name="connect_controller" output="screen" />
+    
+</launch>
