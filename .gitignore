@@ -1,0 +1,13 @@
+*__pycache__*
+*.cache
+
+# Unity
+Unity/Teleoperation_v1/Logs/
+Unity/Teleoperation_v1/.idea/
+Unity/Teleoperation_v1/Library/
+Unity/Teleoperation_v1/obj/
+Unity/Teleoperation_v1/Temp/
+Unity/Teleoperation_v1/UserSettings/
+Unity/Teleoperation_v1/Samples/
+Unity/Teleoperation_v1/Assets/Samples/
+*.user 
